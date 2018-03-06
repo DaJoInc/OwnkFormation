@@ -1,0 +1,8 @@
+Control de versiones distribuidas:No es necesario un servidor central, 
+cada programador tiene una copia completa del repositorio en su equipo y 
+al hacer un cambio se propaga a todos los nodos
+
+cada copia tiene la misma 
+funcionalidad del servidor principal
+repositorio clonado puede intercambiar 
+las versiones con otros repositorios clonados
